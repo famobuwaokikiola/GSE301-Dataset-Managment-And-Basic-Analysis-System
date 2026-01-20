@@ -5,4 +5,4 @@ Average: 74.0
 Minimum: 55.0
 Maximum: 90.0
 Performance: Needs Improvement
-Unique Categories: 4
+Unique Categories: 6
